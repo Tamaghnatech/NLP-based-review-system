@@ -1,7 +1,9 @@
 # Sentiment Analysis with spaCy and scikit-learn
 
 This repository implements a sentiment analysis model on reviews from Yelp, Amazon, and IMDb.
-senti.webp
+
+![Analyzing Sentiment](senti2.jpg)
+
 ## Overview:
 
 The system starts by preprocessing the data using **spaCy**, an advanced NLP library. Features include:
